@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '47751'
     url: http://www.gutenberg.org/2009/agents/47751
     wikipedia: https://fr.wikipedia.org/wiki/Louis_Fabulet
+covers:
+- cover_type: archival
+  image_path: 74052-h/images/cover.jpg
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/132
     wikipedia: https://en.wikipedia.org/wiki/Rudyard_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74052#L-histoire-des-Gadsby
 gutenberg_issued: '2024-07-15'
 gutenberg_type: Text
 identifiers:
